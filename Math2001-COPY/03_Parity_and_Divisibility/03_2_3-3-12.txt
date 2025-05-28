@@ -1,0 +1,14 @@
+3.3.12 Exercises - 5. Give Alternative Solution to Example 3.3.7
+
+3.3.7 Example
+Problem
+    It is possible to have integers a, b, c, d and n
+        with a ≡ b, c ≡ d, but a/c ≢ b/d
+
+Solution
+    a = 10, b = 18, c = 2, d = 6, n = 4
+    (10 ≡ 18, 2 ≡ 6, but 5 ≢ 3)
+
+One of Alternative Solution
+    a = 16, b = 10, c = 4, d = 10, n = 6
+    (16 ≡ 10, 4 ≡ 10, but 4 ≢ 1)
